@@ -22,15 +22,15 @@ Bu konuda, bir başlangıç penceresi ekleme işlemi açıklanır veya *giriş e
 
 1.  Oluşturun veya Karşılama ekranı olarak kullanmak istediğiniz görüntüyü bulun. Windows görüntüleme bileşeni (WIC) tarafından desteklenen herhangi bir resim biçimi kullanabilirsiniz. Örneğin, BMP, GIF, JPEG, PNG ve TIFF biçimini kullanabilirsiniz.
 
-2.  Görüntü dosyası WPF uygulaması projesine ekleyin.
+2.  WPF Uygulaması projesine görüntüyü ekleyin.
 
-3.  İçinde **Çözüm Gezgini**, görüntüyü seçin.
+3.  İ**Çözüm Gezgini** içinde görüntüyü seçin.
 
-4.  Özellikler penceresinde, aşağı açılan oka tıklayın **derleme eylemi** özelliği.
+4.  Özellikler penceresinde, **derleme eylemi** özelliğinde ok işaretine basın.
 
-5.  Seçin **SplashScreen** aşağı açılan listeden.
+5.  SAçılan listeden **SplashScreen* seçeğini işaretleyin.
 
-6.  Tuşuna **F5** oluşturun ve uygulamayı çalıştırın.
+6.  **F5** tuşuna basarak uygulamayı oluşturun ve çalıştırın.
 
      Karşılama ekranı görüntüsü ekranın ortasında görünür ve ana uygulama penceresini göründüğünde kaybolur.
 
